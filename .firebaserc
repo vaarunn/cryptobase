@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "crypto-app-afb5f",
+    "crypto-app": "crypto-app-afb5f"
+  },
+  "targets": {},
+  "etags": {}
+}
